@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, nice to meet you! </h1>
-<h3 align="center">I'm Amelia, a passionate lady entering the tech world and studying software development!</h3>
+<h3 align="center">I'm Amelia, a passionate gal entering the tech world and studying software development!</h3>
 
 - 🔭 **Currently working on a distance running calculator**
 - 🌱 **Currently learning how to use Github and contribute to open-source projects**
