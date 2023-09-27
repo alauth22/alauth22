@@ -4,7 +4,7 @@
 - 🔭 **Working on a distance running calculator**
 - 🌱 **Learning how to use Github and contribute to open-source projects**
 - 📫 **amelialauth@gmail.com**
-- ⚡ **One life goal is to obtain my private pilot's license and build my own airplane model with EAA's assistance.**
+- ⚡ **Life goal: Obtain my private pilot's license and build my own airplane model with EAA's assistance.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
