@@ -1,10 +1,10 @@
 <h1 align="center">Hey 👋, nice to meet you! </h1>
 <h3 align="center">I'm Amelia, a passionate gal entering the tech world and studying software development!</h3>
 
-- 🔭 **Currently working on a distance running calculator**
-- 🌱 **Currently learning how to use Github and contribute to open-source projects**
+- 🔭 **Working on a distance running calculator**
+- 🌱 **Learning how to use Github and contribute to open-source projects**
 - 📫 **amelialauth@gmail.com**
-- ⚡ **One life goal is to run a 100-mile ultramarathon out West.**
+- ⚡ **One life goal is to obtain my private pilot's license and build my own airplane model with EAA's assistance.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
