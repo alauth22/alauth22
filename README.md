@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, nice to meet you! </h1>
 <h3 align="center">I'm Amelia, a passionate lady entering the tech world and studying software development!</h3>
 
-- 🔭 **Working on a distance running calculator**
-- 🌱 **Learning how to use Github and contribute to open-source projects**
+- 🔭 **Working on a course project that involves C# classes and saving/displaying data with a well designed User Interface**
+- 🌱 **Planning to install Linux on an old laptop and practice running python scripts. Will start project for python drinking water reminder app**
 - 📫 **amelialauth@gmail.com**
 - ⚡ **Life goal: Obtain my private pilot's license and build my own airplane model with EAA's assistance.**
 
