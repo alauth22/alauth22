@@ -1,10 +1,10 @@
-<h1 align="center">Hey 👋, nice to meet you! </h1>
-<h3 align="center">I'm Amelia, a passionate lady entering the tech world and studying software development!</h3>
+<h1 align="center">Hey 👋, nice to meet you!</h1>
+<h3 align="center">ABOUT ME</h3>
 
-- 🔭 **Outlining an android mobile app for flight stimulator or an app for drone flight planning. This app will be developed in Kotlin.**
-- 🌱 **Planning to install Linux on an old laptop and practice running python scripts. Will start a project for python drinking water reminder app**
+- 🔭 ****
+- 🌱 **Outlining an android mobile app for flight stimulator or an app for drone flight planning. This app will be developed in Kotlin.**
 - 📫 **amelialauth@gmail.com**
-- ⚡ **Life goal: Obtain my private pilot's license and build my own airplane model with EAA's assistance.**
+- ⚡ **Life goal: Obtain my private pilot's license and build my own airplane model with EAA.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
