@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, nice to meet you!</h1>
 <h3 align="center">ABOUT ME</h3>
 
-- 🔭 ****
+- 🔭 **Forms Designer Intern & Software Developer Student**
 - 🌱 **Outlining an android mobile app for flight stimulator or an app for drone flight planning. This app will be developed in Kotlin.**
 - 📫 **amelialauth@gmail.com**
 - ⚡ **Life goal: Obtain my private pilot's license and build my own airplane model with EAA.**
