@@ -4,7 +4,7 @@
 <ul>
   <li> 💼 Software Development Intern at IGEN</li>
   <li> 🏫 Associates in Software Development ➡️ December 2024 </li>
-  <li> 🌱 Current Fun Project: Developing Android Mobile app in Kotlin with aviation theme</li>
+  <li> 🌱 Current Fun Project: Developing Android Mobile app in Kotlin with Aviation Theme</li>
   <li> 📚 2024 Reading Goal: 33 Books</li>
   <li> 💡 Life Goal: Obtain private pilot's license. </li>
 </ul>
