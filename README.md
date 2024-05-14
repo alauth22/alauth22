@@ -13,7 +13,7 @@
 <ul>
   <li> 📫 amelialauth@gmail.com</li>
   <li> 📱 (920) 371-5886</li>
-  <li> 🔗 <a href="linkedin.com/in/alauth22">LinkedIn</a></li>
+  <li> 🔗 <a href="https://www.linkedin.com/in/alauth22">LinkedIn</a></li>
 </ul>
 
 <h2 align="left">Programming Languages</h3>
