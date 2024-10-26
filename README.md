@@ -18,5 +18,5 @@
 
 <h2 align="left">Programming Languages</h3>
 <ul>
-  <li> ✅ C#, Java, Python, T-SQL, HTMl/CSS/Javascript, Bash, Git</li>
+  <li> ✅ C#, Java, Python, SQL, HTML/CSS/Javascript/ASP.Net, Bash, Git</li>
 </ul>
