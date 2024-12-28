@@ -3,7 +3,7 @@
 <h2 align="left">ABOUT ME</h2>
 <ul>
   <li> 💼 Software Development Intern at IGEN</li>
-  <li> 🌱 Current Fun Project: Familiarizing myself with </li>
+  <li> 🌱 Current Fun Project: Becoming familiar with Design Patterns</li>
   <li> 📚 2025 Reading Goal: 40 Books</li>
   <li> ✈️ Life Goal: Obtain private pilot's license</li>
 </ul>
