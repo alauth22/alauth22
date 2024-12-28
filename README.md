@@ -3,10 +3,9 @@
 <h2 align="left">ABOUT ME</h2>
 <ul>
   <li> 💼 Software Development Intern at IGEN</li>
-  <li> 🏫 Associates in Software Development ➡️ December 2024 </li>
-  <li> 🌱 Current Fun Project: Developing Android Mobile app in Kotlin with Aviation Theme</li>
-  <li> 📚 2024 Reading Goal: 33 Books</li>
-  <li> 💡 Life Goal: Obtain private pilot's license. </li>
+  <li> 🌱 Current Fun Project: Familiarizing myself with </li>
+  <li> 📚 2025 Reading Goal: 40 Books</li>
+  <li> ✈️ Life Goal: Obtain private pilot's license</li>
 </ul>
 
 <h2 align="left">Connect With Me</h2>
@@ -18,5 +17,5 @@
 
 <h2 align="left">Programming Languages</h3>
 <ul>
-  <li> ✅ C#, Java, Python, SQL, HTML/CSS/Javascript/ASP.Net, Bash, Git</li>
+  <li> ✅ C#, Java, SQL, Python, HTML/CSS/Javascript/ASP.Net, Bash, Git</li>
 </ul>
